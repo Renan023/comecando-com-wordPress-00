@@ -1,0 +1,103 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Geral ===================== */
+
+/** Geral >> Focus nav link **/
+.focus .nav-link {
+	font-family: Garamond !important;
+}
+
+/** Geral >> Page image **/
+#page img {
+	
+}
+
+/** Geral >> Page image _2 **/
+#page img {
+	
+}
+
+/** Geral >> .uagb-section__background-gradient .uagb-ifb-desc **/
+.uagb-section__background-gradient .uagb-ifb-desc {
+	
+}
+
+/** Geral >> .uagb-block-f7028efc .uagb-ifb-button-wrapper **/
+.uagb-block-f7028efc .uagb-ifb-button-wrapper {
+	padding-bottom: 0 !important;
+}
+
+/** Geral >> #menu-item-49 a **/
+#menu-item-49 a {
+	
+}
+
+/** Geral >> #menu-item-52 .menu-link **/
+#menu-item-52 .menu-link {
+	border-radius: 20px !important;
+}
+
+/** Geral >> #menu-item-50 .menu-link **/
+#menu-item-50 .menu-link {
+	background-color: rgb(231, 32, 32) !important;
+	border-radius: 20px !important;
+}
+
+
+/*( < 768 )*/
+@media (max-width: 767.98px) {
+
+	/*= Geral ===================== */
+
+	/** Geral >> .uagb-block-0398b4e6 .uagb-section__overlay **/
+	.uagb-block-0398b4e6 .uagb-section__overlay {
+	
+}
+
+	/** Geral >> Post 34 uagb block 0398b4e6 **/
+	#post-34 .uagb-block-0398b4e6 {
+	margin-bottom: 0 !important;
+}
+
+
+}
+
+
+/*( < 480 )*/
+@media (max-width: 479.98px) {
+
+	/*= Geral ===================== */
+
+	/** Geral >> .uagb-block-0398b4e6 .uagb-section__overlay **/
+	.uagb-block-0398b4e6 .uagb-section__overlay {
+	
+}
+
+	/** Geral >> .uagb-block-f7028efc .uagb-ifb-title-prefix **/
+	.uagb-block-f7028efc .uagb-ifb-title-prefix {
+	font-size: 14px !important;
+	margin-right: -5px !important;
+}
+
+	/** Geral >> .uagb-block-3b1630ea .uagb-ifb-title-prefix **/
+	.uagb-block-3b1630ea .uagb-ifb-title-prefix {
+	font-size: 14px !important;
+	width: 109px !important;
+	margin-right: -33px !important;
+	margin-left: -18px !important;
+}
+
+	/** Geral >> .uagb-block-713e4b5c .uagb-ifb-title-prefix **/
+	.uagb-block-713e4b5c .uagb-ifb-title-prefix {
+	font-size: 14px !important;
+}
+
+	/** Geral >> .uagb-block-3b1630ea .uagb-ifb-title **/
+	.uagb-block-3b1630ea .uagb-ifb-title {
+	margin-right: -10px !important;
+}
+
+
+}
+
